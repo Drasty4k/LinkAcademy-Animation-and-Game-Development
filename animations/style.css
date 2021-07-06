@@ -1,0 +1,4 @@
+.animate__bounce,
+.animate__wobble{
+    animation-iteration-count: infinite;
+}
